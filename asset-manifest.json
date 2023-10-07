@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/GranicaGeodezja/static/css/main.4ec56662.css",
+    "main.js": "/GranicaGeodezja/static/js/main.c485a024.js",
+    "static/media/budowa.png": "/GranicaGeodezja/static/media/budowa.3a80d0db86bc7d877aad.png",
+    "static/media/7.jpg": "/GranicaGeodezja/static/media/7.ed729aa559e9fe432056.jpg",
+    "static/media/2.jpg": "/GranicaGeodezja/static/media/2.d5d6fd379dc6f7f288e2.jpg",
+    "static/media/3.jpg": "/GranicaGeodezja/static/media/3.6d745ba5eb9f9bc4b339.jpg",
+    "static/media/1.jpg": "/GranicaGeodezja/static/media/1.178c4ac86c72579a2641.jpg",
+    "static/media/8.jpg": "/GranicaGeodezja/static/media/8.53271d8c461c0e031b35.jpg",
+    "static/media/6.jpg": "/GranicaGeodezja/static/media/6.afc7fbf86c2a7e036a1f.jpg",
+    "static/media/4.jpg": "/GranicaGeodezja/static/media/4.8e3b3a161f21fbb5468c.jpg",
+    "static/media/5.jpg": "/GranicaGeodezja/static/media/5.873a9a1a611934858385.jpg",
+    "static/media/prof.jpg": "/GranicaGeodezja/static/media/prof.5050282819d59e4bfa27.jpg",
+    "static/media/fulllogo.png": "/GranicaGeodezja/static/media/fulllogo.2e74f3ebf9120ec6aaf3.png",
+    "static/media/2020.png": "/GranicaGeodezja/static/media/2020.8044c5727272cb421c75.png",
+    "static/media/220221.png": "/GranicaGeodezja/static/media/220221.1f2d9874cbdf3b10bcc9.png",
+    "static/media/best2022.png": "/GranicaGeodezja/static/media/best2022.5fdb287a173d7f06f588.png",
+    "index.html": "/GranicaGeodezja/index.html",
+    "main.4ec56662.css.map": "/GranicaGeodezja/static/css/main.4ec56662.css.map",
+    "main.c485a024.js.map": "/GranicaGeodezja/static/js/main.c485a024.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ec56662.css",
+    "static/js/main.c485a024.js"
+  ]
+}
