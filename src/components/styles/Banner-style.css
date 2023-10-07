@@ -1,0 +1,10 @@
+.banner-wraper {
+    background-color: black;
+}
+
+.banner-content {
+    background-image: url('./imgs/budowa.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
