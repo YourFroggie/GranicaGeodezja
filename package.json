@@ -1,7 +1,8 @@
 {
   "name": "geodezja-granica",
   "version": "0.1.0",
-  "homepage": "https://geodezja.ogrepdev.dev",
+  "homepage": "https://YourFrogie.github.io/GranicaGeodezja
+  ",
   "private": true,
   "dependencies": {
     "@babel/core": "^7.16.0",
